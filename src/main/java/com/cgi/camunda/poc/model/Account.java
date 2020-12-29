@@ -8,5 +8,6 @@ import java.math.BigDecimal;
 public class Account {
     private String ssn;
     private String accountNumber;
-    private BigDecimal paymentAmount;
+    private String paymentAmount;
+    private String paymentDate;
 }
